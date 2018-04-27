@@ -23,4 +23,4 @@ I am going to use an `SQL Relational`
 ## THE FUNCTIONAL 
 After installing the `Ruby on Rails` in my local machine, please check below all the steps with some screeshots for all the progress work.
 1. The Sign Up and The Sign In
-[] As a User, I can Sign Up
+[ ] As a User, I can Sign Up
