@@ -15,7 +15,7 @@ I use the Management Project Tool called [Taiga](https://taiga.io), you can refe
 - Angular
 - React.Js
 ### The Technology of The Back-End
-`Ruby On Rails`
+- `Ruby On Rails`
 ### The Database 
 I am going to use an `SQL Relational`
 - MySQL
