@@ -19,3 +19,8 @@ I use the Management Project Tool called [Taiga](https://taiga.io), you can refe
 ### The Database 
 I am going to use an `SQL Relational`
 - MySQL
+
+## THE FUNCTIONAL 
+After installing the `Ruby on Rails` in my local machine, please check below all the steps with some screeshots for all the progress work.
+1. The Sign Up & The Sign In
+[] As a User, I can Sign Up
