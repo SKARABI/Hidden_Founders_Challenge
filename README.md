@@ -1,1 +1,2 @@
-# Hidden_Founders_Challenge
+# Hidden Founders Challenge
+## Web Coding Challenge
