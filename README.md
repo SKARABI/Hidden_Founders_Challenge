@@ -26,4 +26,4 @@ After installing the `Ruby on Rails` in my local machine, please check below all
 > for the link of my `Installation Guideline` of [Ruby on Rails](https://gorails.com/setup/ubuntu/17.10), please refer to it for more details
 
 - [X] Setting my Rails Application With an Interface Succeed 
-
+![alt text](./Rails_Installation_Succeed.png)
