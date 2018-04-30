@@ -23,5 +23,5 @@ I am going to use an `SQL Relational`
 ## THE FUNCTIONAL 
 After installing the `Ruby on Rails` in my local machine, please check below all the steps with some screeshots for all the progress work.
 1. The Installation of Ruby on Rails on my local machine
-
+> for the link of my `Installation Guideline` of [Ruby on Rails](https://gorails.com/setup/ubuntu/17.10), please refer to it for more details
 
