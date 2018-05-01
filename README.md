@@ -27,3 +27,6 @@ After installing the `Ruby on Rails` in my local machine, please check below all
 
 - [X] Setting my Rails Application With an Interface Succeed 
 ![alt text](./Rails_Installation_Succeed.png)
+
+- [X] The Sign Up 
+> Signing up with email & password 
