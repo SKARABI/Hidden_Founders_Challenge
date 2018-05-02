@@ -30,3 +30,12 @@ After installing the `Ruby on Rails` in my local machine, please check below all
 
 - [X] The Sign Up 
 > Signing up with email & password 
+![alt text](./images/Sign_Up.png)
+This is the first `output before the design`
+
+- [X] The Sign In 
+> Signing in with email & password
+![alt text](./images/Sign_In.png)
+This is the first `output before the design`, in this second illustration I am showing that I am sign in with the email that is shown.
+![alt text](.images/Sign_In_1.png)
+
