@@ -39,3 +39,4 @@ This is the first `output before the design`
 This is the first `output before the design`, in this second illustration I am showing that I am sign in with the email that is shown.
 ![alt text](./images/Sign_In_1.png)
 
+> For the `Sign Up & Sign In` I used [Clearance](https://github.com/thoughtbot/clearance). `This is a Rails authentication with email & password`.
