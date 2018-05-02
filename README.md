@@ -37,5 +37,5 @@ This is the first `output before the design`
 > Signing in with email & password
 ![alt text](./images/Sign_In.png)
 This is the first `output before the design`, in this second illustration I am showing that I am sign in with the email that is shown.
-![alt text](.images/Sign_In_1.png)
+![alt text](./images/Sign_In_1.png)
 
