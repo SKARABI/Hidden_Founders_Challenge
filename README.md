@@ -17,8 +17,8 @@ I use the Management Project Tool called [Taiga](https://taiga.io), you can refe
 ### The Technology of The Back-End
 - `Ruby On Rails`
 ### The Database 
-I am going to use an `SQL Relational`
-- MySQL
+I am going to use the default Non-SQL Relational
+- SQLite 3
 
 ## THE FUNCTIONAL 
 After installing the `Ruby on Rails` in my local machine, please check below all the steps with some screeshots for all the progress work.
@@ -39,4 +39,4 @@ This is the first `output before the design`
 This is the first `output before the design`, in this second illustration I am showing that I am sign in with the email that is shown.
 ![alt text](./images/Sign_In_1.png)
 
-> For the `Sign Up & Sign In` I used [Clearance](https://github.com/thoughtbot/clearance). `This is a Rails authentication with email & password`.
+> For the `Sign Up & Sign In` I used [Clearance:Rails Authentication with email & password](https://github.com/thoughtbot/clearance).
