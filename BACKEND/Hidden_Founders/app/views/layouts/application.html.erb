@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>HiddenFounders</title>
+    <title>HiddenFounders Application</title>
     <%= csrf_meta_tags %>
 
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
@@ -9,6 +9,7 @@
   </head>
 
   <body>
+  <div class="container">
   <header>
   <% if signed_in? %>
   Signed in as: <%= current_user.email %>
@@ -17,7 +18,6 @@
   <%= link_to 'Sign in', sign_in_path %>
 <% end %>
   </header>
-
   <section>
   <div id="flash">
   <% flash.each do |key, value| %>
@@ -26,5 +26,6 @@
 </div>
     <%= yield %>
   </section>
+ </div>
   </body>
 </html>

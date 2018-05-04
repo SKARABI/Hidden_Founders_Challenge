@@ -11,6 +11,7 @@ I use the Management Project Tool called [Taiga](https://taiga.io), you can refe
 ## THE FIRST PART
 ### The Technologies of The Front-End
 - HTML5 & CSS3
+- Materialize CSS
 - Jquery `Javascript Library`
 - Angular
 - React.Js
@@ -30,13 +31,17 @@ After installing the `Ruby on Rails` in my local machine, please check below all
 
 - [X] The Sign Up 
 > Signing up with email & password 
+Before `Materialize CSS` 
 ![alt text](./images/Sign_Up.png)
-This is the first `output before the design`
+After `Materialize CSS`
+![alt text](./images/Signup_Materialize.png.png)
 
 - [X] The Sign In 
 > Signing in with email & password
 ![alt text](./images/Sign_In.png)
 This is the first `output before the design`, in this second illustration I am showing that I am sign in with the email that is shown.
 ![alt text](./images/Sign_In_1.png)
+> After using `Materialize CSS`
+![alt text](./images/Signin_Materialize.png.png)
 
 > For the `Sign Up & Sign In` I used [Clearance:Rails Authentication with email & password](https://github.com/thoughtbot/clearance).
