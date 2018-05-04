@@ -42,6 +42,6 @@ After `Materialize CSS`
 This is the first `output before the design`, in this second illustration I am showing that I am sign in with the email that is shown.
 ![alt text](./images/Sign_In_1.png)
 > After using `Materialize CSS`
-![alt text](./images/Signin_Materialize.png.png)
+![alt text](./images/Signin_Materialize.png)
 
 > For the `Sign Up & Sign In` I used [Clearance:Rails Authentication with email & password](https://github.com/thoughtbot/clearance).
