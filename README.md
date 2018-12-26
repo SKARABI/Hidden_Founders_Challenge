@@ -12,8 +12,6 @@ I use the Management Project Tool called [Taiga](https://taiga.io), you can refe
 ### The Technologies of The Front-End
 - HTML5 & CSS3
 - Materialize CSS
-- Jquery `Javascript Library`
-- Angular
 - React.Js
 ### The Technology of The Back-End
 - `Ruby On Rails`
