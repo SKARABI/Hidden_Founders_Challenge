@@ -1,4 +1,5 @@
 class TodoListsController < ApplicationController
+  has_many :todo_items
   before_action :set_todo_list, only: [:show, :edit, :update, :destroy]
 
   # GET /todo_lists
